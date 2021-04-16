@@ -77,3 +77,6 @@ Data format:
             }
 }
 ```
+## Screenshots
+![alt text](https://github.com/D3AD-E/Recipe-planner-QT/blob/master/Pic1.png?raw=true)
+![alt text](https://github.com/D3AD-E/Recipe-planner-QT/blob/master/Pic2.png?raw=true)
